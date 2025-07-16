@@ -1,8 +1,8 @@
 package com.pauls.SpringPracticeProject2;
 import org.springframework.stereotype.Component;
 
-import java.util.*;
 
+// @Component Annotation helps Spring to understand which class's object it is supposed to create and manage inside IOC Container.
 @Component
 public class Dev {
 
